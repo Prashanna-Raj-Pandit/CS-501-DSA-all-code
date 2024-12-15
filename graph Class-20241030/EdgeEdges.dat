@@ -1,0 +1,20 @@
+
+The adjacency matrix:
+
+
+          0    1    2    3    4    5    6    7    8    9   10   11
+      ------------------------------------------------------------
+   0 |  MAX  MAX  136   57  MAX  MAX   59  MAX  MAX   34   64   53
+   1 |  MAX  MAX  MAX  MAX  152  MAX  MAX  MAX  MAX  MAX  MAX  MAX
+   2 |  136  MAX  MAX  MAX  MAX  MAX   97  MAX  MAX  MAX  MAX  137
+   3 |   57  MAX  MAX  MAX  MAX   61  MAX  MAX  MAX  MAX   39   47
+   4 |  MAX  152  MAX  MAX  MAX   74  MAX  MAX   60  MAX   70  MAX
+   5 |  MAX  MAX  MAX   61   74  MAX  MAX  MAX   66  MAX  MAX   78
+   6 |   59  MAX   97  MAX  MAX  MAX  MAX  MAX  MAX  MAX  MAX  MAX
+   7 |  MAX  MAX  MAX  MAX  MAX  MAX  MAX  MAX   60  MAX  MAX  MAX
+   8 |  MAX  MAX  MAX  MAX   60   66  MAX   60  MAX  MAX  MAX  MAX
+   9 |   34  MAX  MAX  MAX  MAX  MAX  MAX  MAX  MAX  MAX   71  MAX
+  10 |   64  MAX  MAX   39   70  MAX  MAX  MAX  MAX   71  MAX  MAX
+  11 |   53  MAX  137   47  MAX   78  MAX  MAX  MAX  MAX  MAX  MAX
+
+

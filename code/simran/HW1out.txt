@@ -1,0 +1,7 @@
+Original text:
+hey there you have a nice day. you seem to have been practicing for exams alot
+you seem to being a good job. you will achieve alot
+
+Translated text:
+hey there they have a nice day. they seem to have been practicing for exams alot
+they seem to being a good job. they will achieve alot

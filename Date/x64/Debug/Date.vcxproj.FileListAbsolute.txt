@@ -1,0 +1,3 @@
+C:\D\SIUE\CS501\VC22\Date\x64\Debug\Date.exe
+C:\D\SIUE\CS501\Fall2023\CPPexamples\Date\x64\Debug\Date.exe
+C:\D\SIUE\CS501\Fall2024\CPPexamples\Date\x64\Debug\Date.exe

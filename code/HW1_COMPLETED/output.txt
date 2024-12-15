@@ -1,0 +1,9 @@
+Original Sentence:
+hey there you i want to meet you because you are very genious and you are smart too.
+you are suppose to be very smart but you are not so. you are dull.
+
+'you' is replaced by 'donkey'
+
+Translated Sentence:
+hey there donkey i want to meet you because you are very genious and donkey are smart too.
+donkey are suppose to be very smart but you are not so. donkey are dull.

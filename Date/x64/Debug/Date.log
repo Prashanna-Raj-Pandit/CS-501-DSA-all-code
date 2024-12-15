@@ -1,0 +1,5 @@
+﻿  date.cpp
+  main.cpp
+C:\D\SIUE\CS501\Fall2024\CPPexamples\Date\main.cpp(24,6): warning C4101: 'n': unreferenced local variable
+  Generating Code...
+  Date.vcxproj -> C:\D\SIUE\CS501\Fall2024\CPPexamples\Date\x64\Debug\Date.exe
